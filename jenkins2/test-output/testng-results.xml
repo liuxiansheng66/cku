@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7597" started-at="2019-03-18T01:51:04Z" finished-at="2019-03-18T01:51:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7597" started-at="2019-03-18T01:51:04Z" finished-at="2019-03-18T01:51:11Z">
+      <class name="baidu.baidu01">
+        <test-method status="PASS" signature="a1()[pri:0, instance:baidu.baidu01@5a42bbf4]" name="a1" is-config="true" duration-ms="3451" started-at="2019-03-18T09:51:04Z" finished-at="2019-03-18T09:51:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="baidu()[pri:0, instance:baidu.baidu01@5a42bbf4]" name="baidu" duration-ms="4130" started-at="2019-03-18T09:51:07Z" finished-at="2019-03-18T09:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baidu -->
+        <test-method status="PASS" signature="a4()[pri:0, instance:baidu.baidu01@5a42bbf4]" name="a4" is-config="true" duration-ms="0" started-at="2019-03-18T09:51:11Z" finished-at="2019-03-18T09:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a4 -->
+      </class> <!-- baidu.baidu01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
